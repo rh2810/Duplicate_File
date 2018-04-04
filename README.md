@@ -7,4 +7,4 @@ Directions:
 
 - Compile the program inside of the directory that you saved the duplicate.c file:
 
-  - In a terminal, type: "gcc -Wall -o duplicate duplicate.c
+  - In a terminal, type: "gcc -Wall -o duplicate duplicate.c"
