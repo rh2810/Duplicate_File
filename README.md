@@ -13,8 +13,14 @@ Directions:
 
 - After compilation is complete, run the program:
 
-  - From terminal, type: "./duplicate **input_file** **output_file** *number_of_copies*"
+  - From terminal, type: "./duplicate **<input_file>** **<output_file>** *<number_of_copies>*"
   
     - Bolded text - required fields
     
     - Italicized - optional fields
+    
+  - Examples:
+  
+    - ./duplicate in.txt out.txt
+    
+      - dfg
