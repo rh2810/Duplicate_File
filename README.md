@@ -31,7 +31,7 @@ Directions:
       
     - ./duplicate copy.txt copy.txt
     
-      - Creates a file named copy(1).txt. The contents of copy.txt are then copied into copy(1).txt
+      - Creates a file named copy(1).txt. The contents of copy.txt are then copied into copy(1).txt.
       
     - ./duplicate copy.txt copy.txt 100
     
