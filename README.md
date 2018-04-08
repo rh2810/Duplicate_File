@@ -38,4 +38,4 @@ Directions:
       - Creates 100 files named copy(1).txt, copy(2).txt, ..., and copy(100).txt. The contents of copy.txt are then copied into the output files.
 
 
-* You can change the value of the defined variable MAX_COPIES if you wish to increase/decrease the maximum number of a copies.
+\*You can change the value of the defined variable MAX_COPIES if you wish to increase/decrease the maximum number of a copies.
