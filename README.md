@@ -15,4 +15,6 @@ Directions:
 
   - From terminal, type: "./duplicate **input_file** **output_file** *number_of_copies*"
   
-    - Bolded
+    - Bolded text - required fields
+    
+    - Italicized - optional fields
