@@ -1,5 +1,5 @@
 # Duplicate_File
-Duplicate a given input file under the same or new name up to 100 times!
+Duplicate a given input file under the same or new name up to 100 times*!
 
 Directions:
 
@@ -36,3 +36,6 @@ Directions:
     - ./duplicate copy.txt copy.txt 100
     
       - Creates 100 files named copy(1).txt, copy(2).txt, ..., and copy(100).txt. The contents of copy.txt are then copied into the output files.
+
+
+* You can change the value of the defined variable MAX_COPIES if you wish to increase/decrease the maximum number of a copies.
