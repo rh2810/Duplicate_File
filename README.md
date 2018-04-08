@@ -13,4 +13,6 @@ Directions:
 
 - After compilation is complete, run the program:
 
-  - From terminal, type: "./duplicate <input_file> <output_file> *number_of_copies*"
+  - From terminal, type: "./duplicate **input_file** **output_file** *number_of_copies*"
+  
+    - Bolded
