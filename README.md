@@ -23,4 +23,16 @@ Directions:
   
     - ./duplicate in.txt out.txt
     
-      - dfg
+      - Creates a file named out.txt. The contents of in.txt are then copied into out.txt.
+      
+    - ./duplicate in.txt out.txt 10
+    
+      - Creates 10 files named out.txt, out(1).txt, ..., and out(9).txt. The contents of in.txt are then copied into the output files.
+      
+    - ./duplicate copy.txt copy.txt
+    
+      - Creates a file named copy(1).txt. The contents of copy.txt are then copied into out.txt
+      
+    - ./duplicate copy.txt copy.txt 100
+    
+      - Creates 100 files named copy(1).txt, copy(2).txt, ..., and copy(100).txt. The contents of copy.txt are then copied into the output files.
