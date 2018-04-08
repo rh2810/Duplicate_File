@@ -15,9 +15,9 @@ Directions:
 
   - From terminal, type: "./duplicate **<input_file>** **<output_file>** *<number_of_copies>*"
   
-    - Bolded text - required fields
+    - **Bolded text** - required fields
     
-    - Italicized - optional fields
+    - *Italicized text* - optional fields
     
   - Examples:
   
